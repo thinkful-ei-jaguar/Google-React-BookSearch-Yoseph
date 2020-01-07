@@ -1,0 +1,17 @@
+.searchbar_container {
+    background-color: grey;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.searchbar_form {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.searchbar_input {
+    margin: 10px;
+}
